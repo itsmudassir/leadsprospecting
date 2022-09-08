@@ -1,0 +1,50 @@
+Alabama|Montgomery|Birmingham, Montgomery, Mobile, Huntsville, Tuscaloosa
+Alaska|Juneau|Anchorage, Fairbanks, Juneau, Sitka, Ketchikan
+Arizona|Phoenix|Phoenix, Tucson, Mesa, Chandler, Glendale
+Arkansas|Little Rock|Little Rock, Fort Smith, North Little Rock, Fayetteville, Springdale
+California|Sacramento|Los Angeles, San Diego, San Jose, San Francisco, Fresno
+Colorado|Denver|Denver, Colorado Springs, Aurora, Fort Collins, Lakewood
+Connecticut|Hartford|Bridgeport, New Haven, Hartford, Stamford, Waterbury
+Delaware|Dover|Wilmington, Dover, Newark, Middletown, Smyrna
+Florida|Tallahassee|Jacksonville, Miami, Tampa, St. Petersburg, Orlando
+Georgia|Atlanta|Atlanta, Augusta-Richmond, Columbus, Savannah, Athens
+Hawaii|Honolulu|Honolulu, Hilo1, Kailua1, Kapolei1, Kaneohe1
+Idaho|Boise|Boise, Nampa, Meridian, Idaho Falls, Pocatello
+Illinois|Springfield|Chicago, Aurora, Rockford, Joliet, Naperville
+Indiana|Indianapolis|Indianapolis, Fort Wayne, Evansville, South Bend, Hammond
+Iowa|Des Moines|Des Moines, Cedar Rapids, Davenport, Sioux City, Waterloo
+Kansas|Topeka|Wichita, Overland Park, Kansas City, Topeka, Olathe
+Kentucky|Frankfort|Louisville, Lexington, Bowling Green, Owensboro, Covington
+Louisiana|Baton Rouge|New Orleans, Baton Rouge, Shreveport, Lafayette, Lake Charles
+Maine|Augusta|Portland, Lewiston, Bangor, South Portland, Auburn
+Maryland|Annapolis|Baltimore, Frederick, Rockville, Gaithersburg, Bowie
+Massachusetts|Boston|Boston, Worcester, Springfield, Lowell, Cambridge
+Michigan|Lansing|Detroit, Grand Rapids, Warren, Sterling Heights, Lansing
+Minnesota|Saint Paul|Minneapolis, Saint Paul, Rochester, Duluth, Bloomington
+Mississippi|Jackson|Jackson, Gulfport, Hattiesburg, Southaven, Biloxi
+Missouri|Jefferson City|Kansas City, Saint Louis, Springfield, Independence, Columbia
+Montana|Helena|Billings, Missoula, Great Falls, Bozeman, Butte
+Nebraska|Lincoln|Omaha, Lincoln, Bellevue, Grand Island, Kearney
+Nevada|Carson City|Las Vegas, Henderson, North Las Vegas, Reno, Sparks
+New Hampshire|Concord|Manchester, Nashua, Concord, Derry, Rochester
+New Jersey|Trenton|Newark, Jersey City, Paterson, Elizabeth, Edison
+New Mexico|Santa Fe|Albuquerque, Las Cruces, Rio Rancho, Santa Fe, Roswell
+New York|Albany|New York, Buffalo, Rochester, Yonkers, Syracuse
+North Carolina|Raleigh|Charlotte, Raleigh, Greensboro, Winston-Salem, Durham
+North Dakota|Bismarck|Fargo, Bismarck, Grand Forks, Minot, West Fargo
+Ohio|Columbus|Columbus, Cleveland, Cincinnati, Toledo, Akron
+Oklahoma|Oklahoma City|Oklahoma City, Tulsa, Norman, Broken Arrow, Lawton
+Oregon|Salem|Portland, Eugene, Salem, Gresham, Hillsboro
+Pennsylvania|Harrisburg|Philadelphia, Pittsburgh, Allentown, Erie, Reading
+Rhode Island|Providence|Providence, Warwick, Cranston, Pawtucket, East Providence
+South Carolina|Columbia|Columbia, Charleston, North Charleston, Mount Pleasant, Rock Hill
+South Dakota|Pierre|Sioux Falls, Rapid City, Aberdeen, Brookings, Watertown
+Tennessee|Nashville|Memphis, Nashville, Knoxville, Chattanooga, Clarksville
+Texas|Austin|Houston, San Antonio, Dallas, Austin, Fort Worth
+Utah|Salt Lake City|Salt Lake City, West Valley City, Provo, West Jordan, Orem
+Vermont|Montpelier|Burlington, Essex, South Burlington, Colchester, Rutland
+Virginia|Richmond|Virginia Beach, Norfolk, Chesapeake, Richmond, Newport News
+Washington|Olympia|Seattle, Spokane, Tacoma, Vancouver, Bellevue
+West Virginia|Charleston|Charleston, Huntington, Parkersburg, Morgantown, Wheeling
+Wisconsin|Madison|Milwaukee, Madison, Green Bay, Kenosha, Racine
+Wyoming|Cheyenne|Cheyenne, Casper, Laramie, Gillette, Rock Springs
